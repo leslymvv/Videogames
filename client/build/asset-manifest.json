@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3cdc2e5.chunk.css",
+    "main.js": "/static/js/main.4b2c18b1.chunk.js",
+    "main.js.map": "/static/js/main.4b2c18b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.36355d4d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.36355d4d.js.map",
+    "static/js/2.b1ceb22c.chunk.js": "/static/js/2.b1ceb22c.chunk.js",
+    "static/js/2.b1ceb22c.chunk.js.map": "/static/js/2.b1ceb22c.chunk.js.map",
+    "static/js/3.aae5d178.chunk.js": "/static/js/3.aae5d178.chunk.js",
+    "static/js/3.aae5d178.chunk.js.map": "/static/js/3.aae5d178.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f3cdc2e5.chunk.css.map": "/static/css/main.f3cdc2e5.chunk.css.map",
+    "static/js/2.b1ceb22c.chunk.js.LICENSE.txt": "/static/js/2.b1ceb22c.chunk.js.LICENSE.txt",
+    "static/media/StarScreen.module.css": "/static/media/Share_Image_1920x1080_1920x1080-3ec6b92b109d6ebe190c7fd8da23b989.540f4afc.png",
+    "static/media/game_template.880651eb.png": "/static/media/game_template.880651eb.png",
+    "static/media/logo.21449631.png": "/static/media/logo.21449631.png",
+    "static/media/no-results-found.931404d0.png": "/static/media/no-results-found.931404d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36355d4d.js",
+    "static/js/2.b1ceb22c.chunk.js",
+    "static/css/main.f3cdc2e5.chunk.css",
+    "static/js/main.4b2c18b1.chunk.js"
+  ]
+}
